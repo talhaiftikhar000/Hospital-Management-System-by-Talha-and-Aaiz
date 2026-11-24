@@ -1,2 +1,2 @@
-# Hospital-Management-System-by-Talha-and-Aaiz
-Me and by team mate aaiz have worked very hard to present to you a working hospital management system
+# HospitalAppointmentandPatientManagement-System
+A C++ based Hospital Appointment and Patient Management System using linked lists, queues, searching, sorting, and file handling to manage patient records and appointments.
